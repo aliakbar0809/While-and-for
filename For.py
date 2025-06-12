@@ -18,12 +18,3 @@
 
 # for i in range(1,11):
 #     print(f'{a} * {i} = {a*i}')
-
-
-# a=int(input())
-
-# for i in range(1, a + 1):
-
-#     l= (str(i)+' ') * i
-#     print(l.strip()) 
-
