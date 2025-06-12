@@ -47,3 +47,25 @@
 #         print(" ", a)
 #         break
 #     a+=1
+
+
+
+a=int(input())
+b=int(input())
+cnt=1
+i=0
+while i<b:
+    cnt*=a
+    i+=1
+print(cnt)
+
+
+
+# a=int(input())
+# b=int(input())
+# i=a
+# while i>0:
+#     if a%i==0 and b%i==0:
+#         print(i)
+#         break
+#     i-=1
